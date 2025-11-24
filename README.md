@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaan Jain</h1>
+<h1 align="center">Hi 👋, I'm Ishaan!</h1>
 <h3 align="center">A passionate frontend, machine learning, and data science developer</h3>
 
 - 🔭 I’m currently working on **small business websites, web apps, and ML web apps with Instructor and Pydantic**
