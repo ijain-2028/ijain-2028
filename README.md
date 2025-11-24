@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishaan Jain</h1>
 <h3 align="center">A passionate frontend, machine learning, and data science developer</h3>
 
-- 🔭 I’m currently working on **Several company websites, web apps, and ML websites with Instructor and Pydantic**
+- 🔭 I’m currently working on **small business websites, web apps, and ML web apps with Instructor and Pydantic**
 
-- 🌱 I’m currently learning **React, ML, GraphQL, Postgres, and more...**
+- 🌱 I’m currently learning **React, ML, GraphQL, Postgres, Redwood and more...**
 
 - 💬 Ask me about **Typescript, Python, Java, HTML, CSS, and C**
 
