@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ishaanjain2024@gmail.com**
 
-- My Website: [ishaanjain.tech](ishaanjain.tech)
+- My Website: [ishaanjain.tech](https://www.ishaanjain.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
